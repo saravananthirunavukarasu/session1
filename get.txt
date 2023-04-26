@@ -1,2 +1,3 @@
 GET: GET is used to request data from the specified resource.
 GET request can be cached and bookmark. It remains in the browser history and has length restriction. When dealing with sensitive data GET requests should not be used
+POST : POST request used for create new data 
